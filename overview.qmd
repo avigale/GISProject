@@ -1,0 +1,22 @@
+---
+title: "overview"
+editor: visual
+---
+
+## Overview
+
+Land cover classification is a commonly application area of digital image analysis.
+
+## Literature review
+
+In this project, the following articles will be reviewed.
+
+## Objectives 
+
+This objectives of this project are as follows:
+
+-   objectives 1
+
+-   objectives 2
+
+## Tasks:
